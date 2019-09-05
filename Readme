@@ -1,0 +1,7 @@
+This Project is part of an online course offered by Coursera in partnership with Stanford University.
+
+The project has two parts. 
+
+The first part provides a data set of 2 test scores and whether the respective student was admitted to the University or no. After that, a logistic regression model is applied to this data to determine the probabilty of getting into University with certain test scores.
+
+The second part provides a data set of 2 tests done on microchips fabricated by a certain plant and whether they were able to pass Quality Assurance. After that, a regularized logistic regeression is applied to determine the probability of a certain microchip with certain test scores to pass the Quality Assurance.
